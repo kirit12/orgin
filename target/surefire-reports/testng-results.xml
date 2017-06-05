@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="270265" started-at="2017-06-05T05:27:10Z" finished-at="2017-06-05T05:31:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="270265" started-at="2017-06-05T05:27:10Z" finished-at="2017-06-05T05:31:40Z">
+      <class name="TestCasesHW.TestCasesHW.ChallengeCreate">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6b143ee9]" name="setUp" is-config="true" duration-ms="2987" started-at="2017-06-05T10:57:10Z" finished-at="2017-06-05T10:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6b143ee9]" name="Test" duration-ms="121485" started-at="2017-06-05T10:57:13Z" finished-at="2017-06-05T10:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="testCreateChallenge()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6b143ee9]" name="testCreateChallenge" duration-ms="42618" started-at="2017-06-05T10:59:14Z" finished-at="2017-06-05T10:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateChallenge -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6b143ee9]" name="AfterTest" is-config="true" duration-ms="1237" started-at="2017-06-05T11:01:39Z" finished-at="2017-06-05T11:01:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- TestCasesHW.TestCasesHW.ChallengeCreate -->
+      <class name="TestCasesHW.TestCasesHW.SignUpTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCasesHW.TestCasesHW.SignUpTest@5a61f5df]" name="setUp" is-config="true" duration-ms="12437" started-at="2017-06-05T10:59:57Z" finished-at="2017-06-05T11:00:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSignup()[pri:0, instance:TestCasesHW.TestCasesHW.SignUpTest@5a61f5df]" name="testSignup" duration-ms="88236" started-at="2017-06-05T11:00:09Z" finished-at="2017-06-05T11:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCasesHW.TestCasesHW.SignUpTest@5a61f5df]" name="tearDown" is-config="true" duration-ms="1244" started-at="2017-06-05T11:01:38Z" finished-at="2017-06-05T11:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCasesHW.TestCasesHW.SignUpTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

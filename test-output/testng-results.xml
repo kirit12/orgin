@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="228878" started-at="2017-06-02T09:02:02Z" finished-at="2017-06-02T09:05:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="228878" started-at="2017-06-02T09:02:02Z" finished-at="2017-06-02T09:05:51Z">
+      <class name="TestCasesHW.TestCasesHW.ChallengeCreate">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6a4f787b]" name="setUp" is-config="true" duration-ms="10258" started-at="2017-06-02T14:32:02Z" finished-at="2017-06-02T14:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6a4f787b]" name="Test" duration-ms="161696" started-at="2017-06-02T14:32:12Z" finished-at="2017-06-02T14:34:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="testCreateChallenge()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6a4f787b]" name="testCreateChallenge" duration-ms="55537" started-at="2017-06-02T14:34:54Z" finished-at="2017-06-02T14:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateChallenge -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:TestCasesHW.TestCasesHW.ChallengeCreate@6a4f787b]" name="AfterTest" is-config="true" duration-ms="1353" started-at="2017-06-02T14:35:49Z" finished-at="2017-06-02T14:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- TestCasesHW.TestCasesHW.ChallengeCreate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
